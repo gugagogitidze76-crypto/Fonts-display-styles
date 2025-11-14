@@ -1,0 +1,14 @@
+div {
+  display: inline-block;
+  width: fit-content;
+  height: fit-content;
+  background-color: bisque;
+}
+
+span {
+  display: block;
+  font-weight: 100px;
+  height: 270px;
+  width: 270px;
+  background-color: bisque;
+}
